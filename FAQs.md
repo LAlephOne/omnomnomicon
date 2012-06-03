@@ -28,3 +28,11 @@ Wait, wait, GitHub? What are you, some kinda nerd?
 Well, yeah. Additionally, this will allow the book to [come together naturally](http://www.eqqon.com/index.php/Collaborative_Github_Workflow), organically, and have a source of collaborative trouth without the worries of trolls killing a hosted wiki or the like. It also means that if you'd like to fork the project off to start a [Veg(itari)an version](http://www.reddit.com/r/VegRecipes/comments/lwsxm/reddit_veggie_college_cookbook/), [Paleo version](http://www.reddit.com/r/Paleo/comments/tj1fq/paleo_iron_chef_challenge_cookbook_compiled/), or a [Bacon version](http://www.reddit.com/search?q=bacon+cookbook&restrict_sr=off&sort=relevance) you can do so very easily.
 
 Don't want to get that down and dirty? Don't worry, you can just follow along the reddit for inspiration and the recipes submitted may not match the contents of your pantry perfectly, but you will likely have a very close approximation of the prerequisites.
+
+
+
+Misc
+----
+[The FAQ](http://www.reddit.com/r/omnomnomicon_book/comments/uj10d/omnomnomicon_faqs/)
+[The Rules](http://www.reddit.com/r/omnomnomicon_book/comments/uj2uk/omnomnomicon_rules/)
+[Recipe template](http://www.reddit.com/r/omnomnomicon_book/comments/uj32e/omnomnomicon_template/)
